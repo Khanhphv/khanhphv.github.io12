@@ -30,7 +30,7 @@ webpackEmptyAsyncContext.id = "./src/$$_lazy_route_resource lazy recursive";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "/* input[type=\"file\"]{\r\n    display: none;\r\n} */\r\n.inputFile {\r\n  /* border: 1px solid #0088cc; */\r\n  background: #0088cc;\r\n  border-radius: 7px;\r\n  width: 125px;\r\n  text-align: center;\r\n  color: white\r\n}\r\n.button-submit {\r\n  background: #0088cc;\r\n  border-radius: 7px;\r\n  width: 125px;\r\n  text-align: center;\r\n  color: white;\r\n  border: 0px\r\n}\r\nul,li{ list-style-type:  none}\r\ninput[type=\"file\"] {\r\n  display: none\r\n}\r\n.invalid-feedback{\r\n    color: red\r\n}\r\n.form-control.invalid-feedback{\r\n    border: red\r\n}\r\n.form-control.is-invalid {\r\n    border:1px solid red\r\n}\r\n.text-alert{\r\n    color: red\r\n}\r\n.empty{\r\n    border: 1px solid red\r\n}\r\n.contant{\r\n    border: 1px solid black\r\n}\r\nbutton {\r\n  background: #F44336;\r\n  font-weight: unset;\r\n  border: 0\r\n}\r\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvYWRkL2FkZC5jb21wb25lbnQuY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBOztJQUVJO0FBQ0o7RUFDRSxnQ0FBZ0M7RUFDaEMsb0JBQW9CO0VBQ3BCLG1CQUFtQjtFQUNuQixhQUFhO0VBQ2IsbUJBQW1CO0VBQ25CLFlBQVk7Q0FDYjtBQUVEO0VBQ0Usb0JBQW9CO0VBQ3BCLG1CQUFtQjtFQUNuQixhQUFhO0VBQ2IsbUJBQW1CO0VBQ25CLGFBQWE7RUFDYixXQUFXO0NBQ1o7QUFDRCxPQUFPLHNCQUFzQixDQUFDO0FBQzlCO0VBQ0UsYUFBYTtDQUNkO0FBQ0Q7SUFDSSxVQUFVO0NBQ2I7QUFDRDtJQUNJLFdBQVc7Q0FDZDtBQUNEO0lBQ0ksb0JBQW9CO0NBQ3ZCO0FBQ0Q7SUFDSSxVQUFVO0NBQ2I7QUFDRDtJQUNJLHFCQUFxQjtDQUN4QjtBQUNEO0lBQ0ksdUJBQXVCO0NBQzFCO0FBQ0Q7RUFDRSxvQkFBb0I7RUFDcEIsbUJBQW1CO0VBQ25CLFNBQVM7Q0FDViIsImZpbGUiOiJzcmMvYXBwL2FkZC9hZGQuY29tcG9uZW50LmNzcyIsInNvdXJjZXNDb250ZW50IjpbIi8qIGlucHV0W3R5cGU9XCJmaWxlXCJde1xyXG4gICAgZGlzcGxheTogbm9uZTtcclxufSAqL1xyXG4uaW5wdXRGaWxlIHtcclxuICAvKiBib3JkZXI6IDFweCBzb2xpZCAjMDA4OGNjOyAqL1xyXG4gIGJhY2tncm91bmQ6ICMwMDg4Y2M7XHJcbiAgYm9yZGVyLXJhZGl1czogN3B4O1xyXG4gIHdpZHRoOiAxMjVweDtcclxuICB0ZXh0LWFsaWduOiBjZW50ZXI7XHJcbiAgY29sb3I6IHdoaXRlXHJcbn1cclxuXHJcbi5idXR0b24tc3VibWl0IHtcclxuICBiYWNrZ3JvdW5kOiAjMDA4OGNjO1xyXG4gIGJvcmRlci1yYWRpdXM6IDdweDtcclxuICB3aWR0aDogMTI1cHg7XHJcbiAgdGV4dC1hbGlnbjogY2VudGVyO1xyXG4gIGNvbG9yOiB3aGl0ZTtcclxuICBib3JkZXI6IDBweFxyXG59XHJcbnVsLGxpeyBsaXN0LXN0eWxlLXR5cGU6ICBub25lfVxyXG5pbnB1dFt0eXBlPVwiZmlsZVwiXSB7XHJcbiAgZGlzcGxheTogbm9uZVxyXG59XHJcbi5pbnZhbGlkLWZlZWRiYWNre1xyXG4gICAgY29sb3I6IHJlZFxyXG59XHJcbi5mb3JtLWNvbnRyb2wuaW52YWxpZC1mZWVkYmFja3tcclxuICAgIGJvcmRlcjogcmVkXHJcbn1cclxuLmZvcm0tY29udHJvbC5pcy1pbnZhbGlkIHtcclxuICAgIGJvcmRlcjoxcHggc29saWQgcmVkXHJcbn1cclxuLnRleHQtYWxlcnR7XHJcbiAgICBjb2xvcjogcmVkXHJcbn1cclxuLmVtcHR5e1xyXG4gICAgYm9yZGVyOiAxcHggc29saWQgcmVkXHJcbn1cclxuLmNvbnRhbnR7XHJcbiAgICBib3JkZXI6IDFweCBzb2xpZCBibGFja1xyXG59XHJcbmJ1dHRvbiB7XHJcbiAgYmFja2dyb3VuZDogI0Y0NDMzNjtcclxuICBmb250LXdlaWdodDogdW5zZXQ7XHJcbiAgYm9yZGVyOiAwXHJcbn0iXX0= */"
+module.exports = "/* input[type=\"file\"]{\r\n    display: none;\r\n} */\r\n.inputFile {\r\n  /* border: 1px solid #0088cc; */\r\n  background: #0088cc;\r\n  border-radius: 7px;\r\n  width: 125px;\r\n  text-align: center;\r\n  color: white\r\n}\r\n.button-submit {\r\n  background: #0088cc;\r\n  border-radius: 7px;\r\n  width: 125px;\r\n  text-align: center;\r\n  color: white;\r\n  border: 0px\r\n}\r\nul,\r\nli {\r\n  list-style-type: none\r\n}\r\ninput[type=\"file\"] {\r\n  display: none\r\n}\r\n.invalid-feedback {\r\n  color: red\r\n}\r\n.form-control.invalid-feedback {\r\n  border: red\r\n}\r\n.form-control.is-invalid {\r\n  border: 1px solid red\r\n}\r\n.text-alert {\r\n  color: red\r\n}\r\n.empty {\r\n  border: 1px solid red\r\n}\r\n.contant {\r\n  border: 1px solid black\r\n}\r\nbutton {\r\n  background: #F44336;\r\n  font-weight: unset;\r\n  border: 0\r\n}\r\n.infor input {\r\n  border: none;\r\n  padding: 0 5px\r\n}\r\n.infor input:hover {\r\n  border: 1px solid;\r\n  border-radius: 5px;\r\n\r\n}\r\n.infor input:focus {\r\n  border: 1px solid;\r\n  border-radius: 5px;\r\n}\r\n\r\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvYWRkL2FkZC5jb21wb25lbnQuY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBOztJQUVJO0FBQ0o7RUFDRSxnQ0FBZ0M7RUFDaEMsb0JBQW9CO0VBQ3BCLG1CQUFtQjtFQUNuQixhQUFhO0VBQ2IsbUJBQW1CO0VBQ25CLFlBQVk7Q0FDYjtBQUVEO0VBQ0Usb0JBQW9CO0VBQ3BCLG1CQUFtQjtFQUNuQixhQUFhO0VBQ2IsbUJBQW1CO0VBQ25CLGFBQWE7RUFDYixXQUFXO0NBQ1o7QUFFRDs7RUFFRSxxQkFBcUI7Q0FDdEI7QUFFRDtFQUNFLGFBQWE7Q0FDZDtBQUVEO0VBQ0UsVUFBVTtDQUNYO0FBRUQ7RUFDRSxXQUFXO0NBQ1o7QUFFRDtFQUNFLHFCQUFxQjtDQUN0QjtBQUVEO0VBQ0UsVUFBVTtDQUNYO0FBRUQ7RUFDRSxxQkFBcUI7Q0FDdEI7QUFFRDtFQUNFLHVCQUF1QjtDQUN4QjtBQUVEO0VBQ0Usb0JBQW9CO0VBQ3BCLG1CQUFtQjtFQUNuQixTQUFTO0NBQ1Y7QUFFRDtFQUNFLGFBQWE7RUFDYixjQUFjO0NBQ2Y7QUFFRDtFQUNFLGtCQUFrQjtFQUNsQixtQkFBbUI7O0NBRXBCO0FBRUQ7RUFDRSxrQkFBa0I7RUFDbEIsbUJBQW1CO0NBQ3BCIiwiZmlsZSI6InNyYy9hcHAvYWRkL2FkZC5jb21wb25lbnQuY3NzIiwic291cmNlc0NvbnRlbnQiOlsiLyogaW5wdXRbdHlwZT1cImZpbGVcIl17XHJcbiAgICBkaXNwbGF5OiBub25lO1xyXG59ICovXHJcbi5pbnB1dEZpbGUge1xyXG4gIC8qIGJvcmRlcjogMXB4IHNvbGlkICMwMDg4Y2M7ICovXHJcbiAgYmFja2dyb3VuZDogIzAwODhjYztcclxuICBib3JkZXItcmFkaXVzOiA3cHg7XHJcbiAgd2lkdGg6IDEyNXB4O1xyXG4gIHRleHQtYWxpZ246IGNlbnRlcjtcclxuICBjb2xvcjogd2hpdGVcclxufVxyXG5cclxuLmJ1dHRvbi1zdWJtaXQge1xyXG4gIGJhY2tncm91bmQ6ICMwMDg4Y2M7XHJcbiAgYm9yZGVyLXJhZGl1czogN3B4O1xyXG4gIHdpZHRoOiAxMjVweDtcclxuICB0ZXh0LWFsaWduOiBjZW50ZXI7XHJcbiAgY29sb3I6IHdoaXRlO1xyXG4gIGJvcmRlcjogMHB4XHJcbn1cclxuXHJcbnVsLFxyXG5saSB7XHJcbiAgbGlzdC1zdHlsZS10eXBlOiBub25lXHJcbn1cclxuXHJcbmlucHV0W3R5cGU9XCJmaWxlXCJdIHtcclxuICBkaXNwbGF5OiBub25lXHJcbn1cclxuXHJcbi5pbnZhbGlkLWZlZWRiYWNrIHtcclxuICBjb2xvcjogcmVkXHJcbn1cclxuXHJcbi5mb3JtLWNvbnRyb2wuaW52YWxpZC1mZWVkYmFjayB7XHJcbiAgYm9yZGVyOiByZWRcclxufVxyXG5cclxuLmZvcm0tY29udHJvbC5pcy1pbnZhbGlkIHtcclxuICBib3JkZXI6IDFweCBzb2xpZCByZWRcclxufVxyXG5cclxuLnRleHQtYWxlcnQge1xyXG4gIGNvbG9yOiByZWRcclxufVxyXG5cclxuLmVtcHR5IHtcclxuICBib3JkZXI6IDFweCBzb2xpZCByZWRcclxufVxyXG5cclxuLmNvbnRhbnQge1xyXG4gIGJvcmRlcjogMXB4IHNvbGlkIGJsYWNrXHJcbn1cclxuXHJcbmJ1dHRvbiB7XHJcbiAgYmFja2dyb3VuZDogI0Y0NDMzNjtcclxuICBmb250LXdlaWdodDogdW5zZXQ7XHJcbiAgYm9yZGVyOiAwXHJcbn1cclxuXHJcbi5pbmZvciBpbnB1dCB7XHJcbiAgYm9yZGVyOiBub25lO1xyXG4gIHBhZGRpbmc6IDAgNXB4XHJcbn1cclxuXHJcbi5pbmZvciBpbnB1dDpob3ZlciB7XHJcbiAgYm9yZGVyOiAxcHggc29saWQ7XHJcbiAgYm9yZGVyLXJhZGl1czogNXB4O1xyXG5cclxufVxyXG5cclxuLmluZm9yIGlucHV0OmZvY3VzIHtcclxuICBib3JkZXI6IDFweCBzb2xpZDtcclxuICBib3JkZXItcmFkaXVzOiA1cHg7XHJcbn1cclxuIl19 */"
 
 /***/ }),
 
@@ -41,7 +41,7 @@ module.exports = "/* input[type=\"file\"]{\r\n    display: none;\r\n} */\r\n.inp
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "<section class=\"pb_section\" (click)=\"hideAll($event)\">\n  <div class=\"container main-content\">\n    <div class=\"col-sm-12\">\n      <form [formGroup]=\"form\" (ngSubmit)=\"add()\">\n        <div class=\"row\">\n          <div class=\"form-group\">\n            <label for=\"\">Template</label>\n            <input type=\"text\" class=\"form-control\" placeholder=\"\" aria-describedby=\"helpId\" formControlName=\"name\"\n              [ngClass]=\"{ 'is-invalid': submitted && f.name.errors }\">\n            <div *ngIf=\"submitted && f.name.errors\" class=\"invalid-feedback\">\n              <div *ngIf=\"f.name.errors.required\">Please enter name</div>\n            </div>\n          </div>\n        </div>\n        <div class=\"row\">\n          <div class=\"form-group\">\n            <div (dragover)=\"false\" (dragend)=\"false\" (drop)=\"handleDrop($event)\" (mousedown)=\"draw($event)\"\n              (mousemove)=\"shape($event)\" (mouseup)=\"finish($event)\">\n              <canvas id=\"canvas\" class=\"canvas\" height=\"450\" width=\"600\" [ngClass]=\"(!canvasActive) ? 'empty':'contant'\"></canvas>\n            </div>\n            <div class=\"row text-alert\" *ngIf=\"!canvasActive\">\n              <div class=\"col-sm-12\">\n                Template is not emty\n              </div>\n            </div>\n            <div class=\"row\" style=\"padding-top: 10px\">\n              <div class=\"col-sm-12\">\n                <div class=\"form-group\">\n                  <button type=\"button\" class=\"btn btn-success btn-md btn-block\" (click)=\"delete()\">Delete</button>\n                </div>\n              </div>\n            </div>\n            <div class=\"row\">\n              <div class=\"col-sm-6\">\n                <label for=\"inputFile\" class=\"inputFile\">\n                  Upload\n                </label>\n                <input type=\"file\" id=\"inputFile\" (change)=\"show($event)\">\n              </div>\n              <div class=\"col-sm-6 text-right\">\n                <label for=\"\"></label>\n                <button type=\"submit\" class=\"button-submit\">Submit</button>\n              </div>\n            </div>\n          </div>\n          <div class=\"infor\">\n            <ul>\n              <ul>\n                <li *ngFor=\"let e of  array; let i= index\">\n                  <ul>\n                    <li class=\"title\" *ngIf=\"arrayShoworHide[i] ? !arrayShoworHide[i]['show'] : ''\" (mouseover)=\"showTitle(i)\"><code>\n                        {{ e.title }}</code></li>\n                    <li class=\"title\" *ngIf=\"arrayShoworHide[i] ? arrayShoworHide[i]['show'] : '' \" (keyup)=changeTitle(i,title.value)\n                      (mouseout)=\"editTitle(i)\" (click)=\"change($event,i)\"><code><input style=\"width: 100px\" type=\"text\"\n                          [value]=\"e.title\" #title></code></li>\n                    <li>\n                      <ul>\n                        <li>\n                          <code>{{ e.srcX1}} , {{e.srcX2}}</code>\n                        </li>\n                        <li>\n                          <code> {{ e.srcY1 }}, {{ e.srcY2 }}</code>\n                        </li>\n                      </ul>\n                    </li>\n                  </ul>\n                </li>\n              </ul>\n            </ul>\n          </div>\n        </div>\n      </form>\n    </div>\n\n\n  </div>\n</section>\n<!-- END section -->\n"
+module.exports = "<section class=\"pb_section\" (click)=\"hideAll($event)\">\n  <div class=\"container main-content\">\n    <div class=\"col-sm-12\">\n      <form [formGroup]=\"form\" (ngSubmit)=\"add()\">\n        <div class=\"row\">\n          <div class=\"col-sm-4\">\n            <div class=\"form-group\">\n              <label for=\"\">Template</label>\n              <input type=\"text\" class=\"form-control\" placeholder=\"\" aria-describedby=\"helpId\" formControlName=\"name\"\n                [ngClass]=\"{ 'is-invalid': submitted && f.name.errors }\">\n              <div *ngIf=\"submitted && f.name.errors\" class=\"invalid-feedback\">\n                <div *ngIf=\"f.name.errors.required\">Please enter name</div>\n              </div>\n            </div>\n\n          </div>\n        </div>\n        <div class=\"row\">\n          <div class=\"col-sm-8\">\n            <div (dragover)=\"false\" (dragend)=\"false\" (drop)=\"handleDrop($event)\" (mousedown)=\"draw($event)\"\n              (mousemove)=\"shape($event)\" (mouseup)=\"finish($event)\">\n              <canvas id=\"canvas\" class=\"canvas\" height=\"450\" width=\"600\" [ngClass]=\"(!canvasActive) ? 'empty':'contant'\"></canvas>\n            </div>\n            <div class=\"row text-alert\" *ngIf=\"!canvasActive\">\n              <div class=\"col-sm-12\">\n                Template is not emty\n              </div>\n            </div>\n            <div style=\"padding-top: 10px;width :600px\">\n              <div class=\"row\">\n                <div class=\"col-sm-12\">\n                  <button type=\"button\" class=\"btn btn-success btn-md btn-block form-group\" (click)=\"delete()\">Delete</button>\n                </div>\n              </div>\n              <div class=\"row\">\n                <div class=\"col-sm-6\">\n                  <label for=\"inputFile\" class=\"inputFile\">\n                    Upload\n                  </label>\n                  <input type=\"file\" id=\"inputFile\" (change)=\"show($event)\">\n                </div>\n                <div class=\"col-sm-6 text-right\">\n                  <label for=\"\"></label>\n                  <button type=\"submit\" class=\"button-submit\">Submit</button>\n                </div>\n              </div>\n            </div>\n\n\n          </div>\n          <div class=\"col-sm-4\">\n            <ul>\n              <ul>\n                <li *ngFor=\"let e of  array; let i= index\">\n                  <ul>\n                    <li class=\"title\" id=\"{{i}}\" (keyup)=changeTitle(i,title.value) (click)=\"change($event,i)\"><code><input\n                          style=\"width: 100px\" type=\"text\" [value]=\"e.title\" #title></code></li>\n                    <li>\n                      <ul>\n                        <li>\n                          <code>{{ e.srcX1}} , {{e.srcX2}}</code>\n                        </li>\n                        <li>\n                          <code> {{ e.srcY1 }}, {{ e.srcY2 }}</code>\n                        </li>\n                      </ul>\n                    </li>\n                  </ul>\n                </li>\n              </ul>\n            </ul>\n          </div>\n        </div>\n      </form>\n    </div>\n\n\n  </div>\n</section>\n<!-- END section -->\n"
 
 /***/ }),
 
@@ -91,6 +91,7 @@ var AddComponent = /** @class */ (function () {
         this.listTemplate = new Array;
         this.canvasActive = true;
         this.arrayShoworHide = new Array;
+        this.arrayOfCanvas = new Array;
     }
     AddComponent.prototype.ngOnInit = function () {
         this.canvas = new fabric.Canvas('canvas', {});
@@ -252,6 +253,9 @@ var AddComponent = /** @class */ (function () {
             this.array.push(obj);
             this.arrayShoworHide.push({ show: false });
             // this.array['elements']push(obj)
+            this.arrayOfCanvas.push(this.rect);
+            console.log(this.array);
+            console.log(this.arrayShoworHide);
             this.canvasActive = true;
         }
         this.flagForNew = false;
@@ -275,46 +279,43 @@ var AddComponent = /** @class */ (function () {
     AddComponent.prototype.delete = function () {
         // if (this.isFile) return 0
         this.canvas.clear();
-        var empty = [];
-        this.array = empty;
-        this.arrayShoworHide = empty;
-    };
-    AddComponent.prototype.showTitle = function (index) {
-        if (!this.keepState) {
-            this.arrayShoworHide[index]['show'] = true;
-        }
-        else {
-            return 0;
-        }
-    };
-    AddComponent.prototype.editTitle = function (index) {
-        if (!this.keepState) {
-            if (index != undefined || index != null) {
-                this.arrayShoworHide[index]['show'] = false;
-            }
-        }
-        else {
-            return 0;
-        }
+        var empty = new Array;
+        this.array = [];
+        this.arrayShoworHide = [];
+        this.arrayOfCanvas = [];
+        this.flagNumber = undefined;
+        // console.log(this.array)
     };
     AddComponent.prototype.change = function (event, index) {
         if (index === void 0) { index = null; }
-        this.keepState = true;
-        console.log(index);
-        console.log(this.arrayShoworHide);
+        this.arrayOfCanvas[index].set({
+            stroke: 'red'
+        });
+        this.canvas.renderAll();
         this.arrayShoworHide[index]['show'] = true;
-        this.flagNumber = index;
-        console.log(this.flagNumber);
     };
     AddComponent.prototype.hideAll = function (event) {
-        if (!$(event.target).closest('.title').length) {
-            this.keepState = false;
-            console.log(this.flagNumber);
-            this.arrayShoworHide[this.flagNumber]['show'] = false;
+        var _this = this;
+        console.log(this.flagNumber);
+        if ($(event.target).closest('.title')[0] == undefined) {
+            if (this.flagNumber != undefined) {
+                this.arrayOfCanvas[this.flagNumber].set({
+                    stroke: 'blue'
+                });
+                this.flagNumber = undefined;
+            }
         }
-        // if ($('#menucontainer').is(":visible")) {
-        //   $('#menucontainer').hide();
-        // }
+        else {
+            this.flagNumber = $(event.target).closest('.title')[0].id;
+            this.arrayOfCanvas.forEach(function (e, index) {
+                if (index != _this.flagNumber) {
+                    e.set({
+                        stroke: 'blue'
+                    });
+                }
+            });
+        }
+        this.canvas.renderAll();
     };
     AddComponent.prototype.changeTitle = function (index, value) {
         // this.array.elements[index].title = value
@@ -657,7 +658,7 @@ var EditTableComponent = /** @class */ (function () {
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = ".button-custom {\r\n  background: #fff;\r\n  color: #4a8ae7;\r\n  border: 2px solid #4a8ae7\r\n}\r\n\r\n.button-custom.active {\r\n  background: #4a8ae7;\r\n  color: white;\r\n}\r\n\r\nul, li{\r\n    list-style: none;\r\n}\r\n\r\n.section {\r\n  padding-top: 40px\r\n}\r\n\r\n.checkbox {\r\n  padding: 10px 15px 10px 0;\r\n  float: left;\r\n}\r\n\r\n.container{\r\n    min-width: 992px;\r\n}\r\n\r\ninput[type=\"radio\"] {\r\n  display: none;\r\n}\r\n\r\n.ckeckbox{\r\n    display: flex;\r\n}\r\n\r\n.checkbox label{\r\n    display: flex;\r\n    float: left;\r\n    margin-right: 20px\r\n}\r\n\r\ninput[type=\"radio\"]+span{\r\n  content: '';\r\n  display: inline-block;\r\n  width: 30px;\r\n  height: 30px;\r\n  border: 1px solid black;\r\n  display: flex;\r\n  flex-direction: row;\r\n  margin-right: 20px\r\n}\r\n\r\ninput[type=\"radio\"]:checked+span::before {\r\n  content: \"\\f00c\";\r\n  font-weight: 600;\r\n  font-family: \"Font Awesome 5 Free\";\r\n  color: #0c630c;\r\n  font-size: 1.5em;\r\n  display: flex;\r\n  align-items: center;\r\n  justify-content: center\r\n}\r\n\r\nbutton.delete {\r\n  /* background: linear-gradient(45deg, #665fee 0%, #27c2de 100%) */\r\n  background: #F44336;\r\n  border: 0px\r\n}\r\n\r\nbutton.delete:hover {\r\n  background: rgb(253, 85, 73)\r\n}\r\n\r\ninput[type=\"file\"] {\r\n  display: none\r\n}\r\n\r\n.button-submit {\r\n  background: #0088cc;\r\n  border-radius: 7px;\r\n  width: 125px;\r\n  text-align: center;\r\n  color: white;\r\n  border: 0px;\r\n  font-weight: unset\r\n}\r\n\r\n.button-submit:hover {\r\n  background: #05a5f5\r\n}\r\n\r\n.infor{\r\n    position: absolute;\r\n    top: 0px;\r\n    right: 10%\r\n}\r\n\r\n/* .infor li input{\r\n  width: 100px;\r\n} */\r\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvZWRpdC9lZGl0LmNvbXBvbmVudC5jc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7RUFDRSxpQkFBaUI7RUFDakIsZUFBZTtFQUNmLHlCQUF5QjtDQUMxQjs7QUFFRDtFQUNFLG9CQUFvQjtFQUNwQixhQUFhO0NBQ2Q7O0FBQ0Q7SUFDSSxpQkFBaUI7Q0FDcEI7O0FBQ0Q7RUFDRSxpQkFBaUI7Q0FDbEI7O0FBRUQ7RUFDRSwwQkFBMEI7RUFDMUIsWUFBWTtDQUNiOztBQUNEO0lBQ0ksaUJBQWlCO0NBQ3BCOztBQUNEO0VBQ0UsY0FBYztDQUNmOztBQUVEO0lBQ0ksY0FBYztDQUNqQjs7QUFDRDtJQUNJLGNBQWM7SUFDZCxZQUFZO0lBQ1osa0JBQWtCO0NBQ3JCOztBQUNEO0VBQ0UsWUFBWTtFQUNaLHNCQUFzQjtFQUN0QixZQUFZO0VBQ1osYUFBYTtFQUNiLHdCQUF3QjtFQUN4QixjQUFjO0VBQ2Qsb0JBQW9CO0VBQ3BCLGtCQUFrQjtDQUNuQjs7QUFFRDtFQUNFLGlCQUFpQjtFQUNqQixpQkFBaUI7RUFDakIsbUNBQW1DO0VBQ25DLGVBQWU7RUFDZixpQkFBaUI7RUFDakIsY0FBYztFQUNkLG9CQUFvQjtFQUNwQix1QkFBdUI7Q0FDeEI7O0FBRUQ7RUFDRSxrRUFBa0U7RUFDbEUsb0JBQW9CO0VBQ3BCLFdBQVc7Q0FDWjs7QUFFRDtFQUNFLDRCQUE0QjtDQUM3Qjs7QUFJRDtFQUNFLGFBQWE7Q0FDZDs7QUFFRDtFQUNFLG9CQUFvQjtFQUNwQixtQkFBbUI7RUFDbkIsYUFBYTtFQUNiLG1CQUFtQjtFQUNuQixhQUFhO0VBQ2IsWUFBWTtFQUNaLGtCQUFrQjtDQUNuQjs7QUFFRDtFQUNFLG1CQUFtQjtDQUNwQjs7QUFDRDtJQUNJLG1CQUFtQjtJQUNuQixTQUFTO0lBQ1QsVUFBVTtDQUNiOztBQUNEOztJQUVJIiwiZmlsZSI6InNyYy9hcHAvZWRpdC9lZGl0LmNvbXBvbmVudC5jc3MiLCJzb3VyY2VzQ29udGVudCI6WyIuYnV0dG9uLWN1c3RvbSB7XHJcbiAgYmFja2dyb3VuZDogI2ZmZjtcclxuICBjb2xvcjogIzRhOGFlNztcclxuICBib3JkZXI6IDJweCBzb2xpZCAjNGE4YWU3XHJcbn1cclxuXHJcbi5idXR0b24tY3VzdG9tLmFjdGl2ZSB7XHJcbiAgYmFja2dyb3VuZDogIzRhOGFlNztcclxuICBjb2xvcjogd2hpdGU7XHJcbn1cclxudWwsIGxpe1xyXG4gICAgbGlzdC1zdHlsZTogbm9uZTtcclxufVxyXG4uc2VjdGlvbiB7XHJcbiAgcGFkZGluZy10b3A6IDQwcHhcclxufVxyXG5cclxuLmNoZWNrYm94IHtcclxuICBwYWRkaW5nOiAxMHB4IDE1cHggMTBweCAwO1xyXG4gIGZsb2F0OiBsZWZ0O1xyXG59XHJcbi5jb250YWluZXJ7XHJcbiAgICBtaW4td2lkdGg6IDk5MnB4O1xyXG59XHJcbmlucHV0W3R5cGU9XCJyYWRpb1wiXSB7XHJcbiAgZGlzcGxheTogbm9uZTtcclxufVxyXG5cclxuLmNrZWNrYm94e1xyXG4gICAgZGlzcGxheTogZmxleDtcclxufVxyXG4uY2hlY2tib3ggbGFiZWx7XHJcbiAgICBkaXNwbGF5OiBmbGV4O1xyXG4gICAgZmxvYXQ6IGxlZnQ7XHJcbiAgICBtYXJnaW4tcmlnaHQ6IDIwcHhcclxufVxyXG5pbnB1dFt0eXBlPVwicmFkaW9cIl0rc3BhbntcclxuICBjb250ZW50OiAnJztcclxuICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7XHJcbiAgd2lkdGg6IDMwcHg7XHJcbiAgaGVpZ2h0OiAzMHB4O1xyXG4gIGJvcmRlcjogMXB4IHNvbGlkIGJsYWNrO1xyXG4gIGRpc3BsYXk6IGZsZXg7XHJcbiAgZmxleC1kaXJlY3Rpb246IHJvdztcclxuICBtYXJnaW4tcmlnaHQ6IDIwcHhcclxufVxyXG5cclxuaW5wdXRbdHlwZT1cInJhZGlvXCJdOmNoZWNrZWQrc3Bhbjo6YmVmb3JlIHtcclxuICBjb250ZW50OiBcIlxcZjAwY1wiO1xyXG4gIGZvbnQtd2VpZ2h0OiA2MDA7XHJcbiAgZm9udC1mYW1pbHk6IFwiRm9udCBBd2Vzb21lIDUgRnJlZVwiO1xyXG4gIGNvbG9yOiAjMGM2MzBjO1xyXG4gIGZvbnQtc2l6ZTogMS41ZW07XHJcbiAgZGlzcGxheTogZmxleDtcclxuICBhbGlnbi1pdGVtczogY2VudGVyO1xyXG4gIGp1c3RpZnktY29udGVudDogY2VudGVyXHJcbn1cclxuXHJcbmJ1dHRvbi5kZWxldGUge1xyXG4gIC8qIGJhY2tncm91bmQ6IGxpbmVhci1ncmFkaWVudCg0NWRlZywgIzY2NWZlZSAwJSwgIzI3YzJkZSAxMDAlKSAqL1xyXG4gIGJhY2tncm91bmQ6ICNGNDQzMzY7XHJcbiAgYm9yZGVyOiAwcHhcclxufVxyXG5cclxuYnV0dG9uLmRlbGV0ZTpob3ZlciB7XHJcbiAgYmFja2dyb3VuZDogcmdiKDI1MywgODUsIDczKVxyXG59XHJcblxyXG5cclxuXHJcbmlucHV0W3R5cGU9XCJmaWxlXCJdIHtcclxuICBkaXNwbGF5OiBub25lXHJcbn1cclxuXHJcbi5idXR0b24tc3VibWl0IHtcclxuICBiYWNrZ3JvdW5kOiAjMDA4OGNjO1xyXG4gIGJvcmRlci1yYWRpdXM6IDdweDtcclxuICB3aWR0aDogMTI1cHg7XHJcbiAgdGV4dC1hbGlnbjogY2VudGVyO1xyXG4gIGNvbG9yOiB3aGl0ZTtcclxuICBib3JkZXI6IDBweDtcclxuICBmb250LXdlaWdodDogdW5zZXRcclxufVxyXG5cclxuLmJ1dHRvbi1zdWJtaXQ6aG92ZXIge1xyXG4gIGJhY2tncm91bmQ6ICMwNWE1ZjVcclxufVxyXG4uaW5mb3J7XHJcbiAgICBwb3NpdGlvbjogYWJzb2x1dGU7XHJcbiAgICB0b3A6IDBweDtcclxuICAgIHJpZ2h0OiAxMCVcclxufVxyXG4vKiAuaW5mb3IgbGkgaW5wdXR7XHJcbiAgd2lkdGg6IDEwMHB4O1xyXG59ICovIl19 */"
+module.exports = ".button-custom {\r\n  background: #fff;\r\n  color: #4a8ae7;\r\n  border: 2px solid #4a8ae7\r\n}\r\n\r\n.button-custom.active {\r\n  background: #4a8ae7;\r\n  color: white;\r\n}\r\n\r\nul, li{\r\n    list-style: none;\r\n}\r\n\r\n.section {\r\n  padding-top: 40px\r\n}\r\n\r\n.checkbox {\r\n  padding: 10px 15px 10px 0;\r\n  float: left;\r\n}\r\n\r\n.container{\r\n    min-width: 992px;\r\n}\r\n\r\ninput[type=\"radio\"] {\r\n  display: none;\r\n}\r\n\r\n.ckeckbox{\r\n    display: flex;\r\n}\r\n\r\n.checkbox label{\r\n    display: flex;\r\n    float: left;\r\n    margin-right: 20px\r\n}\r\n\r\ninput[type=\"radio\"]+span{\r\n  content: '';\r\n  display: inline-block;\r\n  width: 30px;\r\n  height: 30px;\r\n  border: 1px solid black;\r\n  display: flex;\r\n  flex-direction: row;\r\n  margin-right: 20px\r\n}\r\n\r\ninput[type=\"radio\"]:checked+span::before {\r\n  content: \"\\f00c\";\r\n  font-weight: 600;\r\n  font-family: \"Font Awesome 5 Free\";\r\n  color: #0c630c;\r\n  font-size: 1.5em;\r\n  display: flex;\r\n  align-items: center;\r\n  justify-content: center\r\n}\r\n\r\nbutton.delete {\r\n  /* background: linear-gradient(45deg, #665fee 0%, #27c2de 100%) */\r\n  background: #F44336;\r\n  border: 0px\r\n}\r\n\r\nbutton.delete:hover {\r\n  background: rgb(253, 85, 73)\r\n}\r\n\r\ninput[type=\"file\"] {\r\n  display: none\r\n}\r\n\r\n.button-submit {\r\n  background: #0088cc;\r\n  border-radius: 7px;\r\n  width: 125px;\r\n  text-align: center;\r\n  color: white;\r\n  border: 0px;\r\n  font-weight: unset\r\n}\r\n\r\n.button-submit:hover {\r\n  background: #05a5f5\r\n}\r\n\r\n.infor input {\r\n  border: none;\r\n  padding: 0 5px\r\n}\r\n\r\n.infor input:hover {\r\n  border: 1px solid;\r\n  border-radius: 5px;\r\n\r\n}\r\n\r\n.infor input:focus {\r\n  border: 1px solid;\r\n  border-radius: 5px;\r\n}\r\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvZWRpdC9lZGl0LmNvbXBvbmVudC5jc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7RUFDRSxpQkFBaUI7RUFDakIsZUFBZTtFQUNmLHlCQUF5QjtDQUMxQjs7QUFFRDtFQUNFLG9CQUFvQjtFQUNwQixhQUFhO0NBQ2Q7O0FBQ0Q7SUFDSSxpQkFBaUI7Q0FDcEI7O0FBQ0Q7RUFDRSxpQkFBaUI7Q0FDbEI7O0FBRUQ7RUFDRSwwQkFBMEI7RUFDMUIsWUFBWTtDQUNiOztBQUNEO0lBQ0ksaUJBQWlCO0NBQ3BCOztBQUNEO0VBQ0UsY0FBYztDQUNmOztBQUVEO0lBQ0ksY0FBYztDQUNqQjs7QUFDRDtJQUNJLGNBQWM7SUFDZCxZQUFZO0lBQ1osa0JBQWtCO0NBQ3JCOztBQUNEO0VBQ0UsWUFBWTtFQUNaLHNCQUFzQjtFQUN0QixZQUFZO0VBQ1osYUFBYTtFQUNiLHdCQUF3QjtFQUN4QixjQUFjO0VBQ2Qsb0JBQW9CO0VBQ3BCLGtCQUFrQjtDQUNuQjs7QUFFRDtFQUNFLGlCQUFpQjtFQUNqQixpQkFBaUI7RUFDakIsbUNBQW1DO0VBQ25DLGVBQWU7RUFDZixpQkFBaUI7RUFDakIsY0FBYztFQUNkLG9CQUFvQjtFQUNwQix1QkFBdUI7Q0FDeEI7O0FBRUQ7RUFDRSxrRUFBa0U7RUFDbEUsb0JBQW9CO0VBQ3BCLFdBQVc7Q0FDWjs7QUFFRDtFQUNFLDRCQUE0QjtDQUM3Qjs7QUFJRDtFQUNFLGFBQWE7Q0FDZDs7QUFFRDtFQUNFLG9CQUFvQjtFQUNwQixtQkFBbUI7RUFDbkIsYUFBYTtFQUNiLG1CQUFtQjtFQUNuQixhQUFhO0VBQ2IsWUFBWTtFQUNaLGtCQUFrQjtDQUNuQjs7QUFFRDtFQUNFLG1CQUFtQjtDQUNwQjs7QUFFRDtFQUNFLGFBQWE7RUFDYixjQUFjO0NBQ2Y7O0FBRUQ7RUFDRSxrQkFBa0I7RUFDbEIsbUJBQW1COztDQUVwQjs7QUFFRDtFQUNFLGtCQUFrQjtFQUNsQixtQkFBbUI7Q0FDcEIiLCJmaWxlIjoic3JjL2FwcC9lZGl0L2VkaXQuY29tcG9uZW50LmNzcyIsInNvdXJjZXNDb250ZW50IjpbIi5idXR0b24tY3VzdG9tIHtcclxuICBiYWNrZ3JvdW5kOiAjZmZmO1xyXG4gIGNvbG9yOiAjNGE4YWU3O1xyXG4gIGJvcmRlcjogMnB4IHNvbGlkICM0YThhZTdcclxufVxyXG5cclxuLmJ1dHRvbi1jdXN0b20uYWN0aXZlIHtcclxuICBiYWNrZ3JvdW5kOiAjNGE4YWU3O1xyXG4gIGNvbG9yOiB3aGl0ZTtcclxufVxyXG51bCwgbGl7XHJcbiAgICBsaXN0LXN0eWxlOiBub25lO1xyXG59XHJcbi5zZWN0aW9uIHtcclxuICBwYWRkaW5nLXRvcDogNDBweFxyXG59XHJcblxyXG4uY2hlY2tib3gge1xyXG4gIHBhZGRpbmc6IDEwcHggMTVweCAxMHB4IDA7XHJcbiAgZmxvYXQ6IGxlZnQ7XHJcbn1cclxuLmNvbnRhaW5lcntcclxuICAgIG1pbi13aWR0aDogOTkycHg7XHJcbn1cclxuaW5wdXRbdHlwZT1cInJhZGlvXCJdIHtcclxuICBkaXNwbGF5OiBub25lO1xyXG59XHJcblxyXG4uY2tlY2tib3h7XHJcbiAgICBkaXNwbGF5OiBmbGV4O1xyXG59XHJcbi5jaGVja2JveCBsYWJlbHtcclxuICAgIGRpc3BsYXk6IGZsZXg7XHJcbiAgICBmbG9hdDogbGVmdDtcclxuICAgIG1hcmdpbi1yaWdodDogMjBweFxyXG59XHJcbmlucHV0W3R5cGU9XCJyYWRpb1wiXStzcGFue1xyXG4gIGNvbnRlbnQ6ICcnO1xyXG4gIGRpc3BsYXk6IGlubGluZS1ibG9jaztcclxuICB3aWR0aDogMzBweDtcclxuICBoZWlnaHQ6IDMwcHg7XHJcbiAgYm9yZGVyOiAxcHggc29saWQgYmxhY2s7XHJcbiAgZGlzcGxheTogZmxleDtcclxuICBmbGV4LWRpcmVjdGlvbjogcm93O1xyXG4gIG1hcmdpbi1yaWdodDogMjBweFxyXG59XHJcblxyXG5pbnB1dFt0eXBlPVwicmFkaW9cIl06Y2hlY2tlZCtzcGFuOjpiZWZvcmUge1xyXG4gIGNvbnRlbnQ6IFwiXFxmMDBjXCI7XHJcbiAgZm9udC13ZWlnaHQ6IDYwMDtcclxuICBmb250LWZhbWlseTogXCJGb250IEF3ZXNvbWUgNSBGcmVlXCI7XHJcbiAgY29sb3I6ICMwYzYzMGM7XHJcbiAgZm9udC1zaXplOiAxLjVlbTtcclxuICBkaXNwbGF5OiBmbGV4O1xyXG4gIGFsaWduLWl0ZW1zOiBjZW50ZXI7XHJcbiAganVzdGlmeS1jb250ZW50OiBjZW50ZXJcclxufVxyXG5cclxuYnV0dG9uLmRlbGV0ZSB7XHJcbiAgLyogYmFja2dyb3VuZDogbGluZWFyLWdyYWRpZW50KDQ1ZGVnLCAjNjY1ZmVlIDAlLCAjMjdjMmRlIDEwMCUpICovXHJcbiAgYmFja2dyb3VuZDogI0Y0NDMzNjtcclxuICBib3JkZXI6IDBweFxyXG59XHJcblxyXG5idXR0b24uZGVsZXRlOmhvdmVyIHtcclxuICBiYWNrZ3JvdW5kOiByZ2IoMjUzLCA4NSwgNzMpXHJcbn1cclxuXHJcblxyXG5cclxuaW5wdXRbdHlwZT1cImZpbGVcIl0ge1xyXG4gIGRpc3BsYXk6IG5vbmVcclxufVxyXG5cclxuLmJ1dHRvbi1zdWJtaXQge1xyXG4gIGJhY2tncm91bmQ6ICMwMDg4Y2M7XHJcbiAgYm9yZGVyLXJhZGl1czogN3B4O1xyXG4gIHdpZHRoOiAxMjVweDtcclxuICB0ZXh0LWFsaWduOiBjZW50ZXI7XHJcbiAgY29sb3I6IHdoaXRlO1xyXG4gIGJvcmRlcjogMHB4O1xyXG4gIGZvbnQtd2VpZ2h0OiB1bnNldFxyXG59XHJcblxyXG4uYnV0dG9uLXN1Ym1pdDpob3ZlciB7XHJcbiAgYmFja2dyb3VuZDogIzA1YTVmNVxyXG59XHJcblxyXG4uaW5mb3IgaW5wdXQge1xyXG4gIGJvcmRlcjogbm9uZTtcclxuICBwYWRkaW5nOiAwIDVweFxyXG59XHJcblxyXG4uaW5mb3IgaW5wdXQ6aG92ZXIge1xyXG4gIGJvcmRlcjogMXB4IHNvbGlkO1xyXG4gIGJvcmRlci1yYWRpdXM6IDVweDtcclxuXHJcbn1cclxuXHJcbi5pbmZvciBpbnB1dDpmb2N1cyB7XHJcbiAgYm9yZGVyOiAxcHggc29saWQ7XHJcbiAgYm9yZGVyLXJhZGl1czogNXB4O1xyXG59Il19 */"
 
 /***/ }),
 
@@ -668,7 +669,7 @@ module.exports = ".button-custom {\r\n  background: #fff;\r\n  color: #4a8ae7;\r
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "<section class=\"pb_section\" (click)=\"hideAll($event)\">\n  <div class=\"container main-content\">\n    <form [formGroup]=\"form\" (ngSubmit)=\"updateTemplate()\">\n      <div class=\"row\">\n        <div class=\"col-lg-3 col-md-3 col-sm-4\">\n          <label for=\"\">Templates</label>\n          <input type=\"text\" name=\"name\" formControlName=\"name\" id=\"\" class=\"form-control\" placeholder=\"\"\n            aria-describedby=\"helpId\">\n        </div>\n      </div>\n      <div class=\"row\">\n        <div class=\"col-sm-12\">\n          <div class=\"checkbox\">\n            <label>\n              <input id=\"option1\" type=\"radio\" formControlName=\"type\" value=\"1\" [checked]=1>\n              <span></span>Modify\n            </label>\n            <label>\n              <input id=\"option2\" type=\"radio\" formControlName=\"type\" value=\"2\">\n              <span></span>Add\n            </label>\n          </div>\n        </div>\n      </div>\n      <div class=\"row\">\n        <div class=\"col-sm-8\">\n          <div class=\"\">\n            <div (dragover)=\"false\" (dragend)=\"false\" (drop)=\"handleDrop($event)\" (mousedown)=\"draw($event)\"\n              (mousemove)=\"shape($event)\" (mouseup)=\"finish($event)\">\n              <canvas id=\"canvas\" class=\"canvas form-group\" height=\"450\" width=\"600\" style=\"border: 1px solid\"></canvas>\n            </div>\n            <div class=\"\" style=\"padding-top: 10px;width :600px\">\n              <div class=\"\">\n                <div class=\"form-group\">\n                  <button type=\"button\" class=\"btn btn-success btn-md btn-block delete\" (click)=\"delete()\">Delete</button>\n                </div>\n              </div>\n              <div class=\"row\">\n                <div class=\"col-sm-6\">\n                  <label for=\"inputFile\" class=\"button-submit\">\n                    File\n                  </label>\n                  <input type=\"file\" name=\"inputFile\" id=\"inputFile\" (change)=\"show($event)\">\n                </div>\n                <div class=\"col-sm-6 text-right\">\n                  <div class=\"form-group\">\n                    <label for=\"\"></label>\n                    <button class=\"button-submit\" type=\"submit\">Apply</button>\n                  </div>\n                </div>\n              </div>\n            </div>\n\n          </div>\n        </div>\n        <div class=\"col-sm-4\">\n          <div class=\"row\">\n            <ul>\n              <li><code>{{ array ? array.name : '' }}</code></li>\n              <ul>\n                <li *ngFor=\"let e of  (array ? array.elements : '') ; let i = index\">\n                  <ul>\n                    <li class=\"title\" *ngIf=\"arrayShoworHide[i] ? !arrayShoworHide[i]['show'] : ''\" (mouseover)=\"showTitle(i)\"><code>\n                        {{ e.title }}</code></li>\n                    <li class=\"title\" *ngIf=\"arrayShoworHide[i] ? arrayShoworHide[i]['show'] : '' \" (keyup)=changeTitle(i,title.value)\n                      (mouseout)=\"editTitle(i)\" (click)=\"change($event,i)\"><code><input style=\"width: 100px\" type=\"text\"\n                          [value]=\"e.title\" #title></code></li>\n                    <li>\n                      <ul>\n                        <li>\n                          <code>{{ e.srcX1}} , {{e.srcX2}}</code>\n                        </li>\n                        <li>\n                          <code> {{ e.srcY1 }}, {{ e.srcY2 }}</code>\n                        </li>\n                      </ul>\n                    </li>\n                  </ul>\n                </li>\n              </ul>\n            </ul>\n          </div>\n        </div>\n\n      </div>\n    </form>\n\n  </div>\n</section>\n<!-- END section -->\n"
+module.exports = "<section class=\"pb_section\" (click)=\"hideAll($event)\">\n  <div class=\"container main-content\">\n    <form [formGroup]=\"form\" (ngSubmit)=\"updateTemplate()\">\n      <div class=\"row\">\n        <div class=\"col-lg-3 col-md-3 col-sm-4\">\n          <label for=\"\">Templates</label>\n          <input type=\"text\" name=\"name\" formControlName=\"name\" id=\"\" class=\"form-control\" placeholder=\"\"\n            aria-describedby=\"helpId\">\n        </div>\n      </div>\n      <div class=\"row\">\n        <div class=\"col-sm-12\">\n          <div class=\"checkbox\">\n            <label>\n              <input id=\"option1\" type=\"radio\" formControlName=\"type\" value=\"1\" [checked]=1>\n              <span></span>Modify\n            </label>\n            <label>\n              <input id=\"option2\" type=\"radio\" formControlName=\"type\" value=\"2\">\n              <span></span>Add``\n            </label>\n          </div>\n        </div>\n      </div>\n      <div class=\"row\">\n        <div class=\"col-sm-8\">\n          <div class=\"\">\n            <div (dragover)=\"false\" (dragend)=\"false\" (drop)=\"handleDrop($event)\" (mousedown)=\"draw($event)\"\n              (mousemove)=\"shape($event)\" (mouseup)=\"finish($event)\">\n              <canvas id=\"canvas\" class=\"canvas form-group\" height=\"450\" width=\"600\" style=\"border: 1px solid\"></canvas>\n            </div>\n            <div class=\"\" style=\"padding-top: 10px;width :600px\">\n              <div class=\"\">\n                <div class=\"form-group\">\n                  <button type=\"button\" class=\"btn btn-success btn-md btn-block delete\" (click)=\"delete()\">Delete</button>\n                </div>\n              </div>\n              <div class=\"row\">\n                <div class=\"col-sm-6\">\n                  <label for=\"inputFile\" class=\"button-submit\">\n                    File\n                  </label>\n                  <input type=\"file\" name=\"inputFile\" id=\"inputFile\" (change)=\"show($event)\">\n                </div>\n                <div class=\"col-sm-6 text-right\">\n                  <div class=\"form-group\">\n                    <label for=\"\"></label>\n                    <button class=\"button-submit\" type=\"submit\">Apply</button>\n                  </div>\n                </div>\n              </div>\n            </div>\n\n          </div>\n        </div>\n        <div class=\"col-sm-4 infor\">\n          <div class=\"row\">\n            <ul>\n              <li><code>{{ array ? array.name : '' }}</code></li>\n              <ul>\n                <li *ngFor=\"let e of  (array ? array.elements : '') ; let i = index\">\n                  <ul>\n                    <li class=\"title\" id=\" {{i}} \" (keyup)=changeTitle(i,title.value)\n                       (click)=\"change($event,i)\"><code><input style=\"width: 100px\" type=\"text\"\n                          [value]=\"e.title\" #title></code></li>\n                    <li>\n                      <ul>\n                        <li>\n                          <code>{{ e.srcX1}} , {{e.srcX2}}</code>\n                        </li>\n                        <li>\n                          <code> {{ e.srcY1 }}, {{ e.srcY2 }}</code>\n                        </li>\n                      </ul>\n                    </li>\n                  </ul>\n                </li>\n              </ul>\n            </ul>\n          </div>\n        </div>\n\n      </div>\n    </form>\n  </div>\n</section>\n<!-- END section -->\n"
 
 /***/ }),
 
@@ -724,6 +725,7 @@ var EditComponent = /** @class */ (function () {
         this.arrayShoworHide = new Array;
         this.keepState = false;
         this.flagNumber = 0;
+        this.arrayOfCanvas = new Array;
         this.form = formBuilder.group({
             type: ['1'],
             name: ['', _angular_forms__WEBPACK_IMPORTED_MODULE_3__["Validators"].required]
@@ -776,13 +778,10 @@ var EditComponent = /** @class */ (function () {
                 });
                 img.scaleToHeight(450);
                 img.scaleToWidth(600);
-                _this.canvas.add(oImg).renderAll();
-                if (_this.flagForDelete) {
-                    _this.createTemplate();
-                }
+                _this.canvas.add(oImg);
                 // this.canvas.add(img).renderAll()
+                _this.createTemplate();
             });
-            _this.createTemplate();
         });
     };
     // crate template by data was get before
@@ -807,7 +806,8 @@ var EditComponent = /** @class */ (function () {
                 strokeWidth: 2,
             });
             rect.id = i;
-            _this.canvas.add(rect).renderAll();
+            _this.arrayOfCanvas.push(rect);
+            _this.canvas.add(rect);
             i++;
         });
     };
@@ -831,10 +831,7 @@ var EditComponent = /** @class */ (function () {
                 });
                 img.scaleToHeight(450);
                 img.scaleToWidth(600);
-                _this.canvas.add(oImg).renderAll();
-                if (_this.flagForDelete) {
-                    _this.createTemplate();
-                }
+                _this.canvas.add(oImg);
             });
         };
         reader.readAsDataURL(this.file);
@@ -904,7 +901,7 @@ var EditComponent = /** @class */ (function () {
         }
         this.rect.set({ width: Math.abs(this.origX - pointer.x) });
         this.rect.set({ height: Math.abs(this.origY - pointer.y) });
-        this.canvas.add(this.rect).renderAll();
+        this.canvas.add(this.rect);
     };
     EditComponent.prototype.finish = function (o) {
         this.isDown = false;
@@ -923,6 +920,7 @@ var EditComponent = /** @class */ (function () {
                 srcY2: srcY2,
             };
             this.array['elements'].push(obj);
+            this.arrayOfCanvas.push(this.rect);
             this.arrayShoworHide = [];
             for (var i = 0; i < this.array.elements.length; i++) {
                 this.arrayShoworHide.push({ show: false });
@@ -937,7 +935,9 @@ var EditComponent = /** @class */ (function () {
         this.canvas.clear();
         this.flagForDelete = false;
         var empty = [];
-        this.array['elements'] = empty;
+        this.array['elements'] = [];
+        this.arrayOfCanvas = [];
+        this.flagNumber = undefined;
         this.isFile = true;
     };
     EditComponent.prototype.updateTemplate = function () {
@@ -956,34 +956,36 @@ var EditComponent = /** @class */ (function () {
             return 0;
         }
     };
-    EditComponent.prototype.editTitle = function (index) {
-        if (!this.keepState) {
-            if (index != undefined || index != null) {
-                this.arrayShoworHide[index]['show'] = false;
-            }
-        }
-        else {
-            return 0;
-        }
-    };
     EditComponent.prototype.change = function (event, index) {
         if (index === void 0) { index = null; }
-        this.keepState = true;
-        console.log(index);
-        console.log(this.arrayShoworHide);
+        this.arrayOfCanvas[index].set({
+            stroke: 'red'
+        });
+        this.canvas.renderAll();
         this.arrayShoworHide[index]['show'] = true;
-        this.flagNumber = index;
-        console.log(this.flagNumber);
     };
     EditComponent.prototype.hideAll = function (event) {
-        if (!$(event.target).closest('.title').length) {
-            this.keepState = false;
-            console.log(this.flagNumber);
-            this.arrayShoworHide[this.flagNumber]['show'] = false;
+        var _this = this;
+        console.log(this.arrayOfCanvas);
+        console.log(this.arrayOfCanvas[this.flagNumber]);
+        if ($(event.target).closest('.title')[0] == undefined) {
+            this.arrayOfCanvas.forEach(function (e, index) {
+                e.set({
+                    stroke: 'blue'
+                });
+            });
         }
-        // if ($('#menucontainer').is(":visible")) {
-        //   $('#menucontainer').hide();
-        // }
+        else {
+            this.flagNumber = $(event.target).closest('.title')[0].id;
+            this.arrayOfCanvas.forEach(function (e, index) {
+                if (index != _this.flagNumber) {
+                    e.set({
+                        stroke: 'blue'
+                    });
+                }
+            });
+        }
+        this.canvas.renderAll();
     };
     EditComponent.prototype.changeTitle = function (index, value) {
         // this.array.elements[index].title = value
@@ -1186,6 +1188,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var firebase__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(firebase__WEBPACK_IMPORTED_MODULE_2__);
 /* harmony import */ var ngx_toastr__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ngx-toastr */ "./node_modules/ngx-toastr/fesm5/ngx-toastr.js");
 /* harmony import */ var ngx_spinner__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ngx-spinner */ "./node_modules/ngx-spinner/fesm5/ngx-spinner.js");
+/* harmony import */ var _angular_router__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! @angular/router */ "./node_modules/@angular/router/fesm5/router.js");
 var __decorate = (undefined && undefined.__decorate) || function (decorators, target, key, desc) {
     var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
     if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
@@ -1200,9 +1203,11 @@ var __metadata = (undefined && undefined.__metadata) || function (k, v) {
 
 
 
+
 var ServiceService = /** @class */ (function () {
-    function ServiceService(fireBase, toastr, spinner) {
+    function ServiceService(fireBase, router, toastr, spinner) {
         this.fireBase = fireBase;
+        this.router = router;
         this.toastr = toastr;
         this.spinner = spinner;
     }
@@ -1290,6 +1295,7 @@ var ServiceService = /** @class */ (function () {
             providedIn: 'root'
         }),
         __metadata("design:paramtypes", [angularfire2_database__WEBPACK_IMPORTED_MODULE_1__["AngularFireDatabase"],
+            _angular_router__WEBPACK_IMPORTED_MODULE_5__["Router"],
             ngx_toastr__WEBPACK_IMPORTED_MODULE_3__["ToastrService"], ngx_spinner__WEBPACK_IMPORTED_MODULE_4__["NgxSpinnerService"]])
     ], ServiceService);
     return ServiceService;
